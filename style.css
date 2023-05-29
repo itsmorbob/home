@@ -92,7 +92,7 @@ body {
 }
 .content {
   border-radius: 4px;
-  width: 500px;
+  width: 525px;
   height: 100px;
   border-width: 5px;
   border-style: solid;
@@ -107,12 +107,12 @@ body {
 .content:hover {
   background-color: rgb(39, 0, 102);
   height: auto;
-  width: 525px;
+  width: 550px;
   font-size: 40px;
   height: 125px;
 }
 .content:active {
-  width: 500px;
+  width: 525px;
   height: 100px;
   opacity: 80%;
 }
