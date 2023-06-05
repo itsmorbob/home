@@ -13,8 +13,7 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Alexandria', Arial, sans-serif;
-}
-.languages {
+}.languages {
   border-color: rgb(17, 0, 56);
   background-color: rgb(17, 0, 56);
   padding-top: 5px;
@@ -23,9 +22,15 @@ body {
   padding-right: 10px;
   display: inline-block;
   border-radius: 10px;
+  vertical-align: top;
 }
 .en, .ar {
   color: white;
+}
+.enflag, .arabflag {
+  width: 20px;
+  height: auto;
+  margin-left: 3px;
 }
 .lang {
   display: inline-block;
